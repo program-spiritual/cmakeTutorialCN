@@ -1,0 +1,4 @@
+D:/IdeaProjects/CmakeRealTutorial/Step4/CMakeFiles/Tutorial.dir
+D:/IdeaProjects/CmakeRealTutorial/Step4/CMakeFiles/ALL_BUILD.dir
+D:/IdeaProjects/CmakeRealTutorial/Step4/CMakeFiles/ZERO_CHECK.dir
+D:/IdeaProjects/CmakeRealTutorial/Step4/MathFunctions/CMakeFiles/MathFunctions.dir

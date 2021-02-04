@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\IdeaProjects\CmakeRealTutorial\Step2\tutorial.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\IdeaProjects\CmakeRealTutorial\Step2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B2502F0A-56F8-31D5-B604-F1D564A326DD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
