@@ -806,7 +806,7 @@ return result;
 }
 ```
 
-我们还依赖对中进行一些更改`tutorial.cxx`,以使其不再使用`USE_MYMATH`：
+我们还需要对其进行一些更改`tutorial.cxx`,以使其不再使用`USE_MYMATH`：
 
 - 一律包含 `MathFunctions.h`
 
